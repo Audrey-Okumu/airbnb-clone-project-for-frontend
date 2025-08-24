@@ -120,3 +120,91 @@ Identifying the **design properties** (such as colors, typography, spacing, and 
 - Helps maintain a **professional and cohesive look** that enhances the user experience  
 - Makes it easier to **scale the design system** as the project grows  
 
+---
+
+## 👥 Project Roles and Responsibilities
+
+To ensure smooth collaboration and successful delivery, the following roles and responsibilities are defined within the project team:
+
+### 📌 Project Manager
+- Oversees the **project timeline** and deliverables  
+- Coordinates communication between team members  
+- Ensures milestones are met and scope is maintained  
+
+### 🎨 Designers
+- Create **mockups and prototypes** in Figma  
+- Define the **design system** (colors, typography, components)  
+- Ensure the application provides an **intuitive and consistent UX**  
+
+### 💻 Frontend Developers
+- Implement **UI components** based on design specifications  
+- Ensure the application is **responsive and accessible**  
+- Work closely with backend developers to integrate APIs  
+
+### ⚙️ Backend Developers
+- Design and build **RESTful APIs** and business logic  
+- Manage the **database schema and queries**  
+- Ensure **secure authentication, data integrity, and performance**  
+
+### 🧪 QA/Testers
+- Write and execute **test cases** for both frontend and backend  
+- Perform **unit testing, integration testing, and regression testing**  
+- Report bugs and verify fixes to maintain product quality  
+
+### 🚀 DevOps Engineers
+- Manage **deployment pipelines (CI/CD)**  
+- Configure and monitor **server infrastructure and cloud services**  
+- Ensure application **scalability, reliability, and uptime**  
+
+### 📋 Product Owner
+- Define **requirements and acceptance criteria**  
+- Prioritize features based on **stakeholder needs**  
+- Act as the **voice of the end-users** within the project  
+
+### 🌀 Scrum Master
+- Facilitate **agile processes and ceremonies** (stand-ups, retros, sprints)  
+- Remove **blockers** and improve workflow efficiency  
+- Ensure the team follows **agile principles and best practices**  
+
+---
+
+### ✅ Contribution to Project Success
+Each role plays a vital part in achieving the project’s goals:  
+- **Designers** set the foundation with a clear design system.  
+- **Frontend & Backend Developers** bring the designs to life and ensure functionality.  
+- **QA/Testers** maintain high quality and reliability.  
+- **DevOps Engineers** guarantee smooth deployment and operations.  
+- **Product Owner** ensures alignment with user needs.  
+- **Project Manager & Scrum Master** keep the team coordinated, productive, and focused on delivery.
+
+  ---
+
+  ## 🧩 UI Component Patterns
+
+As part of the AirBnB Clone project, we will design and implement reusable UI components to ensure a consistent and scalable frontend architecture.  
+The following components are planned:
+
+### 🔝 Navbar
+- Contains the **logo**, **search bar**, and **user navigation options**  
+- Includes a **responsive menu** for mobile devices  
+- Serves as the primary entry point for navigation across the platform  
+
+### 🏠 Property Card
+- Displays **property image, price, location, and rating**  
+- Includes a **favorite (wishlist) button** for user interaction  
+- Built with a **responsive layout** to adapt to different screen sizes  
+
+### 📌 Footer
+- Provides **site links** for navigation (About, Contact, Help, etc.)  
+- Displays **company information and policies**  
+- Contains **social media links** for extended reach  
+- Includes **copyright information**  
+
+---
+
+### ✅ Component Design Goals
+- **Reusability:** Components will be modular and reusable across multiple pages  
+- **Consistency:** Visual design will follow the design system (colors, typography, spacing)  
+- **Responsiveness:** Each component will be mobile-first and adaptive to various screen sizes  
+- **Accessibility:** Components will follow WCAG guidelines to ensure inclusivity  
+
