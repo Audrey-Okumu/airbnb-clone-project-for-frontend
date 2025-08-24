@@ -62,34 +62,6 @@ A **user-friendly design** is critical for the success of a booking system becau
 
 ---
 
-## 🎨 UI/UX Design Planning
-
-### 🎯 Design Goals
-- Create an **intuitive booking flow** for users  
-- Maintain **visual consistency** across all pages  
-- Ensure **fast loading times** for smooth navigation  
-- Prioritize **mobile responsiveness** for all devices  
-
----
-
-### ✨ Key Features
-- 🔍 **Property search and filtering** to help users find the right stay  
-- 🏠 **Detailed property viewing** with descriptions, pricing, and images  
-- 💳 **Secure checkout process** for bookings  
-- 👤 **User authentication** (login/signup)  
-
----
-
-### 📄 Primary Pages
-
-| Page                   | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| **Property Listing View** | Grid display of available properties with filters for location, price, etc. |
-| **Listing Detailed View** | Full property details with images, amenities, reviews, and booking form     |
-| **Simple Checkout View**  | Streamlined payment and booking confirmation process                        |
-
----
-
 ### 🎨 Figma Design Specifications
 
 #### 🎨 Color Styles
